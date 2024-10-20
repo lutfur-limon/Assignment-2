@@ -38,3 +38,7 @@ pandas
 transformers
 spacy
 scispacy
+
+# GitHub Collaboration
+All group members have been added to the repository, and each member's contributions are tracked via commits.
+Each task is assigned to a different group member, and contributions are logged in the commit history.
